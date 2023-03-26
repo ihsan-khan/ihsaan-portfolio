@@ -10,7 +10,7 @@ const skills = [
   { name: 'Node JS', icon: images.node, bgColor:'' },
   { name: 'Vue', icon: images.vue, bgColor:'' },
   { name: 'React', icon: images.react, bgColor:'' },
-  { name: 'AWS', icon: images.python, bgColor:'' },
+  { name: 'Laravel', icon: images.laravel, bgColor:'' },
   { name: 'GIT', icon: images.git, bgColor:'' },
 ];
 
@@ -20,7 +20,6 @@ const experiences = [
     { name: 'Full Stack', company:'softgear', desc:'worked as Full Stack Dev'}
   ]},
   { year: '2020', works :[{ name: 'Laravel dev', company:'SM Chauffeur', desc:'worked as Laravel Dev'}]},
-  { year: '2021', works :[{ name: 'Laravel dev', company:'CodesOrbit', desc:'worked as Laravel Dev'}]},
   { year: '2022', works :[{ name: 'Backend Dev', company:'Botnostic Solutions', desc:'worked as Laravel Dev'}]},
 ];
 
