@@ -8,10 +8,11 @@ import './Skills.scss';
 
 const skills = [
   { name: 'Node JS', icon: images.node, bgColor:'' },
-  { name: 'Vue', icon: images.vue, bgColor:'' },
+  { name: 'Vue JS', icon: images.vue, bgColor:'' },
   { name: 'React', icon: images.react, bgColor:'' },
   { name: 'Laravel', icon: images.laravel, bgColor:'' },
   { name: 'GIT', icon: images.git, bgColor:'' },
+  { name: 'Inertia JS', icon: images.inertia, bgColor:'' },
 ];
 
 const experiences = [
